@@ -12,6 +12,7 @@
 		C0FF10CC23E8925E00E54968 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FF10CA23E8925E00E54968 /* Main.storyboard */; };
 		C0FF10CE23E8925F00E54968 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0FF10CD23E8925F00E54968 /* Assets.xcassets */; };
 		C0FF10D123E8925F00E54968 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0FF10CF23E8925F00E54968 /* LaunchScreen.storyboard */; };
+		CE82E7A823E897EF00B2A1FA /* TestTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE82E7A723E897EF00B2A1FA /* TestTableViewController.swift */; };
 		C0FF10D923E896BC00E54968 /* MyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0FF10D823E896BC00E54968 /* MyViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -24,6 +25,7 @@
 		C0FF10D023E8925F00E54968 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0FF10D223E8925F00E54968 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C0FF10D823E896BC00E54968 /* MyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewController.swift; sourceTree = "<group>"; };
+		CE82E7A723E897EF00B2A1FA /* TestTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C0FF10D823E896BC00E54968 /* MyViewController.swift */,
 				C0FF10C423E8925E00E54968 /* AppDelegate.swift */,
 				C0FF10C623E8925E00E54968 /* SceneDelegate.swift */,
+				CE82E7A723E897EF00B2A1FA /* TestTableViewController.swift */,
 				C0FF10CA23E8925E00E54968 /* Main.storyboard */,
 				C0FF10CD23E8925F00E54968 /* Assets.xcassets */,
 				C0FF10CF23E8925F00E54968 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				C0FF10C523E8925E00E54968 /* AppDelegate.swift in Sources */,
 				C0FF10D923E896BC00E54968 /* MyViewController.swift in Sources */,
 				C0FF10C723E8925E00E54968 /* SceneDelegate.swift in Sources */,
+				CE82E7A823E897EF00B2A1FA /* TestTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
